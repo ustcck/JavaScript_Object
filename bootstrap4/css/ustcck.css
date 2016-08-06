@@ -1,19 +1,12 @@
-* { margin: 0; padding: 0 }
-body{  font-family:'Microsoft YaHei',sans-serif;  }
-a { outline: none; }
-ul { list-style: none; }
-a:link, a:visited { text-decoration: none; color: #666 }
-a:hover { text-decoration: none; }
-.f_l { float: left }
-.f_r { float: right }
-.l_box { width: 670px; }
-.r_box { width: 300px; }
+/** { margin: 0; padding: 0 }*/
+/*body{  font-family:'Microsoft YaHei',sans-serif;  }*/
 
-.navbar-default{
-  background-color: #fff;
-  border: none;
-  box-shadow: 0px 2px 8px 0px rgba(50,50,50,0.88);
-}
+
+/*.navbar-default{*/
+  /*background-color: #fff;*/
+  /*border: none;*/
+  /*box-shadow: 0px 2px 8px 0px rgba(50,50,50,0.88);*/
+/*}*/
 
 .ck_height{
   height: 55px;
@@ -34,36 +27,26 @@ a:hover { text-decoration: none; }
   width: 100%;
   background: #2ea7e0;
 }
-.navbar-default .navbar-nav>li>a {
-  font-size: 18px;
-  font-weight: bold;
-  color: #ffffff;
-  height: 51px;
-  line-height: 19px;
-}
+/*.navbar-default .navbar-nav>li>a {*/
+  /*font-size: 18px;*/
+  /*font-weight: bold;*/
+  /*color: #ffffff;*/
+  /*height: 51px;*/
+  /*line-height: 19px;*/
+/*}*/
 
 .right_section{
-  padding-top: 120px;
+  padding-top: 110px;
 }
 
-.tit01 h3 {
-  line-height: 40px;
-  color: #38485A;
-  font-size: 18px;
-  border-bottom: 1px solid #E6E6E6;
-  height: 40px;
+/*.tit01 h3 {*/
+  /*line-height: 40px;*/
+  /*color: #38485A;*/
+  /*font-size: 18px;*/
+  /*border-bottom: 1px solid #E6E6E6;*/
+  /*height: 40px;*/
+/*}*/
+
+.navbar-default .navbar-nav>li>a {
+  color: #fff;
 }
-
-
-/* 关注我样式 */
-.gzwm ul { width: 100%; margin: 30px 0; overflow: hidden }
-.gzwm li { width: 52px; margin: 0 18px 0 5px; float: left; }
-.gzwm li a { color: #747F8C; width: 52px; text-align: center; padding-top: 60px; float: left; }
-.gzwm .rss { background: url(../img/ico_04_1.jpg) no-repeat scroll 0% 0% transparent; }
-.gzwm .rss:hover { color: #000; background: url(../img/ico_04.png) no-repeat scroll 0% 0% transparent; }
-.gzwm .xlwb { background: url(../img/ico_05_1.jpg) no-repeat scroll 0% 0% transparent; }
-.gzwm .xlwb:hover { color: #000; background: url(../img/ico_05.png) no-repeat scroll 0% 0% transparent; }
-.gzwm .txwb { background: url(../img/ico_06_1.jpg) no-repeat scroll 0% 0% transparent; }
-.gzwm .txwb:hover { color: #000; background: url(../img/ico_06.png) no-repeat scroll 0% 0% transparent; }
-.gzwm .wx { background: url(../img/ico_07_1.jpg) no-repeat scroll 0% 0% transparent; }
-.gzwm .wx:hover { color: #000; background: url(../img/ico_07.png) no-repeat scroll 0% 0% transparent; }
